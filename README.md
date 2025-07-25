@@ -51,3 +51,23 @@ git clone https://github.com/sarthaktuli7/Data-Analyst-Data-Science-Portfolio.gi
 cd "Data Analyst Copilot"
 pip install -r requirements.txt
 streamlit run app.py
+Create a .env file
+
+ini
+Copy
+Edit
+OPENAI_API_KEY=your_openai_key_here
+📦 Folder Structure
+bash
+Copy
+Edit
+Data Analyst Copilot/
+│
+├── app.py                  # Main Streamlit App
+├── helpers.py              # Helper functions
+├── utils/                  # Utilities (file handling, prompts)
+├── .env                    # Secret API key (ignored in Git)
+└── requirements.txt        # Python dependencies
+
+👨‍💻 Author
+Made with ❤️ by Sarthak Tuli
