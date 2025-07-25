@@ -11,18 +11,9 @@
 
 ---
 
-## 📸 UI Screenshots
-
 ### 🏠 Home Screen
-![Home](https://user-images.githubusercontent.com/your-image-link/Home.png)
+<img width="1833" height="577" alt="image" src="https://github.com/user-attachments/assets/ee2af65a-2caa-492a-9de7-482e2a55e097" />
 
-### 📁 Upload CSV + Chat Assistant
-![Chat](https://user-images.githubusercontent.com/your-image-link/Chat.png)
-
-### 📈 Automated Data Profiling Report
-![Profiling](https://user-images.githubusercontent.com/your-image-link/Profiling.png)
-
----
 
 ## ⚙️ Features
 
